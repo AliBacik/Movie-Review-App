@@ -31,7 +31,8 @@ A mobile application built with **React Native (Expo)** that allows users to bro
 - **React Native (Expo)**  
 - **React Navigation** (Stack & Drawer)  
 - **Redux Toolkit**  
-- **IMDB API**  
+- **IMDB API**
+- **MongoDb**
 - **Custom Node.js/Express Backend**  
 
 ---
