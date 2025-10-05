@@ -5,7 +5,8 @@ A mobile application built with **React Native (Expo)** that allows users to bro
 ---
 
 ## ✨ Features
-- 🔑 **User Authentication** (JWT based login & token handling)  
+- 🔑 **User Authentication** (JWT based login & token handling)
+- 💬 **Live Chat with Socket.io** (movie-specific chatrooms, real-time messaging)  
 - 🎞 **Movie Data Integration** with the IMDB API  
 - 🗂 **Navigation** with **Stack** and **Drawer**  
 - 🔄 **Global State Management** using Redux Toolkit  
@@ -18,11 +19,11 @@ A mobile application built with **React Native (Expo)** that allows users to bro
 
 | Login Screen | Home Screen | Movie Details |
 |--------------|-------------|---------------|
-| ![Login](./screenshots/login.png) | ![Home](./screenshots/home.png) | ![Details](./screenshots/details.png) |
+| ![Login](./screenshots/mobile4.png) | ![Home](./screenshots/mobile5.png) | ![Details](./screenshots/mobile2.png) |
 
-| Drawer Menu | User Profile | Comments |
-|-------------|--------------|----------|
-| ![Drawer](./screenshots/drawer.png) | ![Profile](./screenshots/profile.png) | ![Comments](./screenshots/comments.png) |
+| Comments - Chat |
+|----------|
+| ![Comments](./screenshots/mobile3.png) |
 
 ---
 
@@ -30,7 +31,8 @@ A mobile application built with **React Native (Expo)** that allows users to bro
 - **React Native (Expo)**  
 - **React Navigation** (Stack & Drawer)  
 - **Redux Toolkit**  
-- **IMDB API**  
+- **IMDB API**
+- **MongoDb**
 - **Custom Node.js/Express Backend**  
 
 ---
