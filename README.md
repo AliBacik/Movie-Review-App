@@ -5,7 +5,8 @@ A mobile application built with **React Native (Expo)** that allows users to bro
 ---
 
 ## ✨ Features
-- 🔑 **User Authentication** (JWT based login & token handling)  
+- 🔑 **User Authentication** (JWT based login & token handling)
+- 💬 **Live Chat with Socket.io** (movie-specific chatrooms, real-time messaging)  
 - 🎞 **Movie Data Integration** with the IMDB API  
 - 🗂 **Navigation** with **Stack** and **Drawer**  
 - 🔄 **Global State Management** using Redux Toolkit  
