@@ -18,11 +18,11 @@ A mobile application built with **React Native (Expo)** that allows users to bro
 
 | Login Screen | Home Screen | Movie Details |
 |--------------|-------------|---------------|
-| ![Login](./screenshots/login.png) | ![Home](./screenshots/home.png) | ![Details](./screenshots/details.png) |
+| ![Login](./screenshots/mobile4.png) | ![Home](./screenshots/mobile5.png) | ![Details](./screenshots/mobile2.png) |
 
-| Drawer Menu | User Profile | Comments |
-|-------------|--------------|----------|
-| ![Drawer](./screenshots/drawer.png) | ![Profile](./screenshots/profile.png) | ![Comments](./screenshots/comments.png) |
+| Comments - Chat |
+|----------|
+| ![Comments](./screenshots/mobile3.png) |
 
 ---
 
